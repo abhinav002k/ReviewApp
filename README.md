@@ -16,16 +16,16 @@
 ## App Screenshots
 
 **Home Screen**
-![alt text](Screenshot_1723968392.png)
+![alt text](Screenshot_1723968392-1.png)
 
 **Add Review Modal**
-![alt text](Screenshot_1723968414.png)
+![alt text](Screenshot_1723968414-2.png)
 
 **Review Details**
-![alt text](Screenshot_1723968409.png)
+![alt text](Screenshot_1723968409-1.png)
 
 **App Drawer**
-![alt text](Screenshot_1723968424.png) ![alt text](Screenshot_1723968421.png)
+![alt text](Screenshot_1723968424-1.png) ![alt text](Screenshot_1723968421-1.png)
 
 ## Installation
 
